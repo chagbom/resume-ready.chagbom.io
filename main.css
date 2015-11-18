@@ -1,0 +1,81 @@
+.nav a {
+  color: #FFA500;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://www.chrisdixonstudios.com/wildprints/top-wildlife-prints/se_000003495_Cheetah%20Mom%20and%20Four%20Cubs-perfect%20pose.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+.jumbotron a {
+  font-size: 20px;
+  color: #008080;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold
+  color: #FFA500;
+}
+
+.learn-more a {
+  color: #FFA500;
+}
+
+.activities {
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.activities h2 {
+  color: #FFA500;
+  font-size: 24px;
+}
+
+.activities p {
+  font-size: 15px;
+  margin-bottom: 13px;
+}main.css
+
+.activities a {
+color: #FFA500;
+font-size: 24px;
+}
+
+
+
